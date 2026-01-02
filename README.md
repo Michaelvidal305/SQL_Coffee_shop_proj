@@ -5,15 +5,15 @@ Designed to demonstrate real-world data analysis and forecasting using PostgreSQ
 
 🗂️ Schema & Tables
 
-coffeeshop: Staff shift assignments
-rota: Rota schedules (date, shift_id, staff_id)
-shift: Shift definitions (day_of_week, start_time, end_time)
-staff: Employee details (name, position, hourly rate)
-menu_items: Products offered (sku, category, size, price)
-orders: Customer orders (order timestamp, item_id, quantity, in/out)
-ingredients: Raw ingredients (name, unit, cost)
-inventary: Current stock levels
-recipe: Ingredient bill-of-materials per menu item
+**coffeeshop:** Staff shift assignments
+**rota:** Rota schedules (date, shift_id, staff_id)
+**shift:** Shift definitions (day_of_week, start_time, end_time)
+**staff:** Employee details (name, position, hourly rate)
+**menu_items:** Products offered (sku, category, size, price)
+**orders:** Customer orders (order timestamp, item_id, quantity, in/out)
+**ingredients:** Raw ingredients (name, unit, cost)
+**inventary:** Current stock levels
+**recipe:** Ingredient bill-of-materials per menu item
 
 🎯 Key Analyses & Insights
 
