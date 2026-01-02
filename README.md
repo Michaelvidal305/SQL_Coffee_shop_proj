@@ -17,17 +17,16 @@ recipe: Ingredient bill-of-materials per menu item
 
 🎯 Key Analyses & Insights
 
-Sales Performance
-
+1. **Sales Performance**
 Top 5 best-selling items & revenue share
 Least-selling items for discount/removal
 Busiest hours by total sales
-Pricing Strategy
 
+2. **Pricing Strategy**
 Early demand-based price adjustment suggestions
 Marketing focus recommendations for top/mid/low sellers
-Inventory & Forecasting
 
+3. **Inventory & Forecasting**
 Low-stock ingredients detection
 Average daily ingredient usage
 Estimated “days until stockout” via recursive logic
