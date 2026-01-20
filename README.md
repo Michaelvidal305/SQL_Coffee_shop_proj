@@ -33,13 +33,13 @@ Designed to demonstrate real-world data analysis and forecasting using PostgreSQ
 
 -Busiest hours by total sales
 
-3. **Pricing Strategy**
+2. **Pricing Strategy**
 
 -Early demand-based price adjustment suggestions  
 
 -Marketing focus recommendations for top/mid/low sellers
 
-5. **Inventory & Forecasting**
+3. **Inventory & Forecasting**
 
 -Low-stock ingredients detection  
 
