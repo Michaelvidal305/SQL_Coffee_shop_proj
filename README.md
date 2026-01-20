@@ -1,9 +1,9 @@
-☕ ## CoffeeShop SQL Case Study
+## CoffeeShop SQL Case Study
 
 A comprehensive SQL case study simulating a coffee shop’s sales, staffing, and inventory workflows.
 Designed to demonstrate real-world data analysis and forecasting using PostgreSQL.
 
-🗂️ ## Schema & Tables
+## Schema & Tables
 
 **coffeeshop:** Staff shift assignments 
 
@@ -23,7 +23,7 @@ Designed to demonstrate real-world data analysis and forecasting using PostgreSQ
 
 **recipe:** Ingredient bill-of-materials per menu item
 
-🎯 ## Key Analyses & Insights
+## Key Analyses & Insights
 
 1. **Sales Performance**
 
@@ -49,7 +49,7 @@ Designed to demonstrate real-world data analysis and forecasting using PostgreSQ
 
 -Reorder planning thresholds
 
-🚀 ## Skills & Techniques
+## Skills & Techniques
 
 -SQL Joins (INNER, LEFT), Aggregations, Window Functions  
 
