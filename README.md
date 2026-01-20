@@ -1,9 +1,9 @@
-☕ CoffeeShop SQL Case Study
+☕ ## CoffeeShop SQL Case Study
 
 A comprehensive SQL case study simulating a coffee shop’s sales, staffing, and inventory workflows.
 Designed to demonstrate real-world data analysis and forecasting using PostgreSQL.
 
-🗂️ Schema & Tables
+🗂️ ## Schema & Tables
 
 **coffeeshop:** Staff shift assignments 
 
@@ -23,27 +23,41 @@ Designed to demonstrate real-world data analysis and forecasting using PostgreSQ
 
 **recipe:** Ingredient bill-of-materials per menu item
 
-🎯 Key Analyses & Insights
+🎯 ## Key Analyses & Insights
 
 1. **Sales Performance**
-Top 5 best-selling items & revenue share
-Least-selling items for discount/removal
-Busiest hours by total sales
 
-2. **Pricing Strategy**
-Early demand-based price adjustment suggestions
-Marketing focus recommendations for top/mid/low sellers
+-Top 5 best-selling items & revenue share  
 
-3. **Inventory & Forecasting**
-Low-stock ingredients detection
-Average daily ingredient usage
-Estimated “days until stockout” via recursive logic
-Reorder planning thresholds
+-Least-selling items for discount/removal  
 
-🚀 Skills & Techniques
+-Busiest hours by total sales
 
-SQL Joins (INNER, LEFT), Aggregations, Window Functions
-CTEs & Recursive Queries
-CASE statements for business-rule logic
-Data cleaning using EXCEPT and type casting
-Inventory forecasting & demand analysis
+3. **Pricing Strategy**
+
+-Early demand-based price adjustment suggestions  
+
+-Marketing focus recommendations for top/mid/low sellers
+
+5. **Inventory & Forecasting**
+
+-Low-stock ingredients detection  
+
+-Average daily ingredient usage  
+
+-Estimated “days until stockout” via recursive logic  
+
+-Reorder planning thresholds
+
+🚀 ## Skills & Techniques
+
+-SQL Joins (INNER, LEFT), Aggregations, Window Functions  
+
+-CTEs & Recursive Queries  
+
+-CASE statements for business-rule logic  
+
+-Data cleaning using EXCEPT and type casting  
+
+-Inventory forecasting & demand analysis  
+
