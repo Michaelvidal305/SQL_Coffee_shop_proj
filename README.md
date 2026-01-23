@@ -3,6 +3,9 @@
 A comprehensive SQL case study simulating a coffee shop’s sales, staffing, and inventory workflows.
 Designed to demonstrate real-world data analysis and forecasting using PostgreSQL.
 
+## 📂 Data Source
+- [Coffeshop.csv][([Data/swiggy_data.csv](https://github.com/Michaelvidal305/SQL_Coffee_shop_proj/tree/main/data))](https://github.com/Michaelvidal305/SQL_Coffee_shop_proj/blob/main/data/CoffeeShop.csv)
+
 ## Schema & Tables
 
 **coffeeshop:** Staff shift assignments 
