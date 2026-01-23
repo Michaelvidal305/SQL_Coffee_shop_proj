@@ -4,7 +4,7 @@ A comprehensive SQL case study simulating a coffee shop’s sales, staffing, and
 Designed to demonstrate real-world data analysis and forecasting using PostgreSQL.
 
 ## 📂 Data Source
-- [Coffeshop.csv](https://github.com/Michaelvidal305/SQL_Coffee_shop_proj/tree/main/data)
+- [Coffe_shop_data](https://github.com/Michaelvidal305/SQL_Coffee_shop_proj/tree/main/data)
 
 ## Schema & Tables
 
